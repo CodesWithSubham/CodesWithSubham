@@ -56,12 +56,25 @@ I’m a passionate **Full-Stack Developer** specializing in building scalable, m
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-cards-one.vercel.app/api/stats" width="100%" style="max-width:600px;" />
-  <br/>
-  <img src="https://github-readme-cards-one.vercel.app/api/streak" width="100%" style="max-width:600px;" />
-  <br/>
-  <img src="https://github-readme-cards-one.vercel.app/api/top-lang" width="100%" style="max-width:600px;" />
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-cards-one.vercel.app/api/stats?dark=1" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-cards-one.vercel.app/api/stats" style="width:100%; max-width:600px;" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-cards-one.vercel.app/api/streak?dark=1" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-cards-one.vercel.app/api/streak" style="width:100%; max-width:600px;" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-cards-one.vercel.app/api/top-lang?dark=1" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-cards-one.vercel.app/api/top-lang" style="width:100%; max-width:600px;" />
+  </picture>
 </p>
 
 ---
