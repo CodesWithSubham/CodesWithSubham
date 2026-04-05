@@ -58,21 +58,21 @@ I’m a passionate **Full-Stack Developer** specializing in building scalable, m
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-cards-one.vercel.app/stats/dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-cards-one.vercel.app/stats?theme=github_dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-cards-one.vercel.app/stats" style="width:100%; max-width:600px;" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-cards-one.vercel.app/streak/dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-cards-one.vercel.app/streak?theme=github_dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-cards-one.vercel.app/streak" style="width:100%; max-width:600px;" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-cards-one.vercel.app/top-lang/dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-cards-one.vercel.app/top-lang?theme=github_dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-cards-one.vercel.app/top-lang" style="width:100%; max-width:600px;" />
   </picture>
 </p>
